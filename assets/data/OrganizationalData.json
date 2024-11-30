@@ -15,7 +15,13 @@
                 {"name": "3rd Canadian Division"},
                 {"name": "4th Canadian Division"},
                 {"name": "5th Canadian Division"},
-                {"name": "Canadian Army Doctrine Training Centre (CADTC)"}
+                {"name": "Canadian Army Doctrine Training Centre (CADTC)"},
+                "L3Organizations": [
+                    {"name: "Peace Support Training Centre"},
+                    {"name: "Canadian Army Command and Staff College"},
+                    {"name: "Combat Training Centre (CTC) Headquarters"},
+                    {"name: "Canadian Manoeuvre Training Centre(CMTC)"}
+                ]
             ]
         },
         {
